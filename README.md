@@ -10,6 +10,15 @@
 
 ![Contributors](https://img.shields.io/github/contributors/william1220/Ruby_with_Go_Rails?color=dark-green)
 
+## Table Of Contents
+
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Ruby](#ruby)
+  * [Password Manager](#password-manager)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
+
 ## About The Project
 
 This Project is entirely built with ruby. The Purpose of  this repo is to learn and enhance more my skills on using the ruby language with go Rails.
@@ -17,6 +26,9 @@ This Project is entirely built with ruby. The Purpose of  this repo is to learn 
 ## Built With
 
 Ruby
+
+### Ruby
+  Simple password manager with ruby. With e-mail and password input.
 
 ## Authors
 
