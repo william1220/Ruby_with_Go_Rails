@@ -12,7 +12,7 @@
 
 ## About The Project
 
-This Project is entirely built with ruby. The Purpose of  this repo is to learn and enhance more my skills on using the ruby language.
+This Project is entirely built with ruby. The Purpose of  this repo is to learn and enhance more my skills on using the ruby language with go Rails.
 
 ## Built With
 
