@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/william1220/ReadME-Generator">
+  <a href="https://github.com/william1220/ReadME-Gene">
     <img src="assets/readme.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -8,11 +8,9 @@
 
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/william1220/ReadME-Generator?color=dark-green)
+![Contributors](https://img.shields.io/github/contributors/william1220?color=dark-green)
 
 ## About The Project
-
-![Screen Shot](images/screenshot.png)
 
 This Project is entirely built with ruby. The Purpose of  this repo is to learn and enhance more my skills on using the ruby language.
 
