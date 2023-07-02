@@ -4,7 +4,7 @@
     <img src="assets/readme.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Ruby</h3>
+  <h3 align="center">Simple Password Manager with Ruby</h3>
 
 </p>
 
