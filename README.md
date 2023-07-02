@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/william1220/ReadME-Generator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/readme.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Ruby</h3>
