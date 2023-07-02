@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/william1220">
+  <a href="https://github.com/william1220/Ruby_with_Go_Rails">
     <img src="assets/readme.png" alt="Logo" width="80" height="80">
   </a>
 
