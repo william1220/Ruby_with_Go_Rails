@@ -28,6 +28,7 @@ This Project is entirely built with ruby. The Purpose of  this repo is to learn 
 Ruby
 
 ### Ruby
+*Password Manager
   Simple password manager with ruby. With e-mail and password input.
 
 ## Authors
