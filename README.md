@@ -8,7 +8,7 @@
 
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/william1220?color=dark-green)
+![Contributors](https://img.shields.io/github/contributors/william1220/Ruby_with_Go_Rails?color=dark-green)
 
 ## About The Project
 
