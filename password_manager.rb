@@ -14,7 +14,7 @@ end
 
 def verify_user_email(user_email)
   if user_email != EMAIL
-    puts 'invalid email'
+    render_try_again_email
     exit
   end
 end
@@ -26,7 +26,7 @@ end
 
 def verify_user_password(user_password)
   if user_password != PASSWORD
-    puts 'invalid password'
+    render_try_again_password
     exit
   end
 end
@@ -101,6 +101,8 @@ def example
   exit
 end
 
+private
+
 def render_graphics_art
   puts <<-'EOF'
     _..--"\  `|`""--.._
@@ -137,6 +139,49 @@ def render_graphics_art
 EOF
 end
 
+def render_try_again_email
+  puts <<-'EOF'
+  _________        .---"""      """---.
+  :______.-':      :  .--------------.  :
+  | ______  |      | :                : |
+  |:______B:|      | |  Incorrect     | |
+  |:______B:|      | |  Email!        | |
+  |:______B:|      | |  Try Again     | |
+  |         |      | |                | |
+  |:_____:  |      | |                | |
+  |    ==   |      | :                : |
+  |       O |      :  '--------------'  :
+  |       o |      :'---...______...---'
+  |       o |-._.-i___/'             \._
+  |'-.____o_|   '-.   '-...______...-'  `-._
+  :_________:      `.____________________   `-.___.-.
+                   .'.eeeeeeeeeeeeeeeeee.'.      :___:
+      fsc        .'.eeeeeeeeeeeeeeeeeeeeee.'.
+                :____________________________:
+  EOF
+end
+
+def render_try_again_password
+  puts <<-'EOF'
+  _________        .---"""      """---.
+  :______.-':      :  .--------------.  :
+  | ______  |      | :                : |
+  |:______B:|      | |  Incorrect     | |
+  |:______B:|      | |  Password!     | |
+  |:______B:|      | |  Try Again     | |
+  |         |      | |                | |
+  |:_____:  |      | |                | |
+  |    ==   |      | :                : |
+  |       O |      :  '--------------'  :
+  |       o |      :'---...______...---'
+  |       o |-._.-i___/'             \._
+  |'-.____o_|   '-.   '-...______...-'  `-._
+  :_________:      `.____________________   `-.___.-.
+                   .'.eeeeeeeeeeeeeeeeee.'.      :___:
+      fsc        .'.eeeeeeeeeeeeeeeeeeeeee.'.
+                :____________________________:
+  EOF
+end
 render_graphics_art
 welcome_message
 user_email = prompt_user_for_e_mail
