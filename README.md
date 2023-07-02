@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/william1220/ReadME-Gene">
+  <a href="https://github.com/william1220">
     <img src="assets/readme.png" alt="Logo" width="80" height="80">
   </a>
 
